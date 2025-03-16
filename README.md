@@ -1,2 +1,2 @@
 # git_tut
-Author - Komal Singh
+Author - Komal Singh (NIT JSR)
